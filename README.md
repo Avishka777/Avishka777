@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [avishka777](avishka777)
 
-- 💬 Ask me about **HTML, CSS**
+- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS**
 
 - 📫 How to reach me **a.rathnakumara777@gmail.com**
 
