@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **a.rathnakumara777@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Aimd5zFoOm4VRE7OcEk2Z3VZseG3s4C1/view?usp=sharing](https://drive.google.com/file/d/1Aimd5zFoOm4VRE7OcEk2Z3VZseG3s4C1/view?usp=sharing)
+- 📄 Know about my experiences https://avishka-rathnakumara.netlify.app/
 
 - ⚡ Fun fact **I once refactored a single line of code for an entire afternoon. It went from 'i += 1' to 'i++'. Sometimes, it's the little victories that make us developers tick! 💡👩‍💻**
 
