@@ -4,8 +4,8 @@
 
 <h3 align="center">If You're Interested In My Projects, Feel Free To Check Out My Portfolio Website At</h3>
 <p align="center">https://avishka-rathnakumara.netlify.app/</p>
-<p align="center">  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="800"></p>
-<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avishka777&" alt="avishka777" width="800"/></p>
+<p align="center">  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="600"></p>
+<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avishka777&" alt="avishka777" width="600"/></p>
 
 <h3 align="center">Languages</h3>
 <p align="center">
