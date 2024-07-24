@@ -7,7 +7,7 @@
 
 <h3 align="center">If You're Interested In My Projects, Feel Free To Check Out My Portfolio Website At</h3>
 <p align="center">https://avishka-rathnakumara.netlify.app/</p>
-<p align="center"> <img src="https://firebasestorage.googleapis.com/v0/b/online-learning-7b1cf.appspot.com/o/GitHub.png?alt=media&token=0efe7929-1dce-44e7-bfc6-a5a9a4a03648" width="600"> </p>
+<p align="center"> <img src="https://firebasestorage.googleapis.com/v0/b/online-learning-7b1cf.appspot.com/o/avishka.png?alt=media&token=1b99cc28-613d-4c49-bf56-43c9c4ece4e4" width="600"> </p>
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=avishka777&theme=algolia" alt="avishka777"  width="600"/> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=avishka777&show_icons=true&count_private=true&theme=algolia" alt="avishka777" width="600"/> </p>
 
