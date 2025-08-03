@@ -6,7 +6,7 @@
 
 
 <h3 align="center">If You're Interested In My Projects, Feel Free To Check Out My Portfolio Website At</h3>
-<p align="center">https://avishka-rathnakumara.netlify.app</p>
+<p align="center">https://avishka.info</p>
 <p align="center"> <img src="https://rp-projects-public.s3.amazonaws.com/1743138857930-Frame%2029.png" width="600"> </p>
 <p align="center"> <img src="https://rp-projects-public.s3.amazonaws.com/1743138888312-Frame%2030.png" width="600"> </p>
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=avishka777&theme=algolia" alt="avishka777"  width="600"/> </p>
