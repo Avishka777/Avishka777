@@ -7,8 +7,6 @@
 
 <h3 align="center">If You're Interested In My Projects, Feel Free To Check Out My Portfolio Website At</h3>
 <p align="center">https://avishka.info</p>
-<p align="center"> <img src="https://rp-projects-public.s3.amazonaws.com/1743138857930-Frame%2029.png" width="600"> </p>
-<p align="center"> <img src="https://rp-projects-public.s3.amazonaws.com/1743138888312-Frame%2030.png" width="600"> </p>
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=avishka777&theme=algolia" alt="avishka777"  width="600"/> </p>
 
 <h3 align="center"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 15px>  Languages <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 15px> </h3>
